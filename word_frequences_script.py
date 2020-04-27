@@ -55,7 +55,7 @@ STOP_WORDS += ['whoever', 'whole', 'whom', 'whose', 'why', 'will', 'with']
 STOP_WORDS += ['within', 'without', 'would', 'yet', 'you', 'your']
 STOP_WORDS += ['yours', 'yourself', 'yourselves']
 STOP_WORDS += ['\'\'', '\"', '"', "", '']
-STOP_WORDS += ['ubs', 'new', 'end', 'date', 'time', 'use']
+STOP_WORDS += ['france', 'new', 'end', 'date', 'time', 'use']
 
 
 INPUT_FILE = "filetoread.txt" # File to read and extract word list from
